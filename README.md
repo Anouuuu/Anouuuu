@@ -13,9 +13,12 @@
 - 📫 How to reach me **anoushkasaha2003@gmail.com**
 - ⚡ Fun fact **I speak SQL fluently and Python casually**
 
-<p align="center">
+
+<p align="right">
   <img src="https://i.pinimg.com/originals/bf/16/a0/bf16a028b29a65eebd7241df947bfffe.gif" width="400"/>
 </p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/anoushka_2003" target="blank">
