@@ -8,14 +8,12 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bf/16/a0/bf16a028b29a65eebd7241df947bfffe.gif"/>
 
 - 🌱 I’m currently learning **Gen AI**
-- 
+  
 - 💬 Ask me about **Python and SQL**
-- 
+  
 - 📫 How to reach me **anoushkasaha2003@gmail.com**
-- 
+  
 - ⚡ Fun fact **I speak SQL fluently and Python casually**
-
-<br><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
