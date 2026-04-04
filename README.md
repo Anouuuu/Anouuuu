@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Anoushka Saha</h1>
 <h3 align="center">A passionate Python developer from India</h3>
-- <p align="left"> 
+
+<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=anouuuu&label=Profile%20views&color=0e75b6&style=flat" alt="anouuuu" /> 
 </p>
-- 🌱 I’m currently learning **Gen Ai**
-- 💬 Ask me about **Python and Sql**
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bf/16/a0/bf16a028b29a65eebd7241df947bfffe.gif"/>
+
+- 🌱 I’m currently learning **Gen AI**
+- 💬 Ask me about **Python and SQL**
 - 📫 How to reach me **anoushkasaha2003@gmail.com**
 - ⚡ Fun fact **I speak SQL fluently and Python casually**
-<p align="right">
-  <img src="https://i.pinimg.com/originals/bf/16/a0/bf16a028b29a65eebd7241df947bfffe.gif" width="400"/>
-</p>
+
+<br><br><br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/anoushka_2003" target="blank">
@@ -22,6 +26,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
 </a>
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank"> 
