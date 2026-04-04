@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anoushka Saha</h1>
 <h3 align="center">A passionate Python developer from India</h3>
-
-<!-- ✅ GIF added in correct position -->
-
-
 - <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=anouuuu&label=Profile%20views&color=0e75b6&style=flat" alt="anouuuu" /> 
 </p>
-
 - 🌱 I’m currently learning **Gen Ai**
 - 💬 Ask me about **Python and Sql**
 - 📫 How to reach me **anoushkasaha2003@gmail.com**
