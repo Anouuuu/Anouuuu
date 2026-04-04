@@ -3,7 +3,7 @@
 
 <!-- 🔥 GIF placed here (best position) -->
 <p align="center">
-  <img src="https://tenor.com/view/coding-girl-gif-2332171326726785246" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
 <p align="left"> 
