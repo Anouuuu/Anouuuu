@@ -6,14 +6,15 @@
   <img src="https://i.pinimg.com/originals/bf/16/a0/bf16a028b29a65eebd7241df947bfffe.gif" width="400"/>
 </p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=anouuuu&label=Profile%20views&color=0e75b6&style=flat" alt="anouuuu" /> 
-</p>
+
 
 - 🌱 I’m currently learning **Gen Ai**
 - 💬 Ask me about **Python and Sql**
 - 📫 How to reach me **anoushkasaha2003@gmail.com**
 - ⚡ Fun fact **I speak SQL fluently and Python casually**
+- <p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=anouuuu&label=Profile%20views&color=0e75b6&style=flat" alt="anouuuu" /> 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
