@@ -12,13 +12,9 @@
 - 💬 Ask me about **Python and Sql**
 - 📫 How to reach me **anoushkasaha2003@gmail.com**
 - ⚡ Fun fact **I speak SQL fluently and Python casually**
-
-
 <p align="right">
   <img src="https://i.pinimg.com/originals/bf/16/a0/bf16a028b29a65eebd7241df947bfffe.gif" width="400"/>
 </p>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/anoushka_2003" target="blank">
@@ -31,7 +27,6 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
 </a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank"> 
