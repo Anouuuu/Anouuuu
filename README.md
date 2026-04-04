@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Anoushka Saha</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
-<p align="center">
-  <img alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
-</p>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6c96.gif" 
+       alt="Coding Girl" 
+       width="400" 
+       style="border-radius: 10px;">
+</div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anouuuu&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anouuuu&label=Profile%20views&color=0e75b6&style=flat" alt="anouuuu" />
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anouuuu" alt="trophies" /></a>
